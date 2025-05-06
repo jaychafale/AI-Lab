@@ -1,4 +1,5 @@
 Basic-AI codes
+
 Welcome to the Basic-AI repository — a beginner-friendly collection of AI and ML concept demonstrations built using Python and Jupyter Notebooks. This project showcases fundamental algorithms, essential models, and basic text processing workflows.
 
 Repository Overview
